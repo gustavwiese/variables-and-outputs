@@ -42,8 +42,10 @@ button {
     font-size: 200px;
     font-weight: bold;
     margin: 0;
+    translate: 0% 30%;
 }
 
 #message {
     font-size: 40px;
+    translate: 0% -50%;
 }
